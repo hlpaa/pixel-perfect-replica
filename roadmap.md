@@ -1,0 +1,4 @@
+- [ ] Criar a página única para vaga e currículo.
+- [ ] Conectar análise real por IA com preservação das informações originais.
+- [ ] Permitir edição, cópia e exportação em PDF.
+- [ ] Verificar regras e fluxo completo em computador e celular.

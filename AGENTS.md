@@ -28,3 +28,9 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+<!-- AGENT-MEMORY:BEGIN -->
+- Keep analysis in a public validated server function and gateway helpers in server-only modules; this supports the account-free single-page workflow without exposing secrets.
+- Build optimized resumes from a complete permutation of original paragraphs plus verbatim evidence excerpts; this prevents model-generated qualifications and preserves all original facts.
+- Keep analysis and edited resumes in component state only; no candidate history or persistence is required.
+<!-- AGENT-MEMORY:END -->
